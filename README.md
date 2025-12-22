@@ -18,8 +18,10 @@
 7. **Конец**
 
 ##Блок-схема
-<img width="1604" height="3204" alt="image" src="https://github.com/user-attachments/assets/a53772ea-0899-4182-9316-b6d5788e63ed" />
+<img width="981" height="551" alt="image" src="https://github.com/user-attachments/assets/58750a46-01c7-4252-8b21-c644810afba1" />
 
+
+<a href="https://app.diagrams.net/?src=about#LHomework-8.drawio#%7B%22pageId%22%3A%22y-lBywVhpN6j6aKu_6zP%22%7D">Ссылка на блок-схему</a>
 
 ## 2. Реализация программы
 
